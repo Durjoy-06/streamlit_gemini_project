@@ -1,4 +1,7 @@
 # 📝 Note Summary & AI Quiz Generator
+ 
+🚀 **[Live Interactive App (Streamlit)](https://share.streamlit.io/durjoy-06/streamlit_gemini_project/main/app.py)**
+
 
 A powerful AI-driven application that transforms images of notes into concise summaries and interactive quizzes. Built with **Streamlit** and powered by **Google Gemini AI**, this tool is designed to help students and professionals quickly digest information and test their knowledge.
 
